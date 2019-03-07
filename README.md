@@ -1,7 +1,7 @@
-# Dashboard-Administrator
-Dashboard e Administrador do sistema BigData cesta de serviços
+## Dashboard-Administrator
+* Dashboard e Administrador do sistema BigData cesta de serviços
 
 
-#Tecnologias Utilizadas
-Java 8
-Bootstrap
+## Tecnologias Utilizadas
+* Java 8
+* Bootstrap
