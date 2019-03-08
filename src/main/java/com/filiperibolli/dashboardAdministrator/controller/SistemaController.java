@@ -1,4 +1,4 @@
-package com.filiperibolli.dashboardAdministrator;
+package com.filiperibolli.dashboardAdministrator.controller;
 
 
 import org.springframework.stereotype.Controller;
